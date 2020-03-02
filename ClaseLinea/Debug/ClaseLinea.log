@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\aaron\source\repos\graficacion6a\claselinea\main.cpp(21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\aaron\source\repos\graficacion6a\claselinea\main.cpp(32): warning C4244: '=': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aaron\source\repos\graficacion6a\claselinea\main.cpp(33): warning C4244: '=': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aaron\source\repos\graficacion6a\claselinea\main.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  ClaseLinea.vcxproj -> C:\Users\Aaron\source\repos\Graficacion6A\Debug\ClaseLinea.exe

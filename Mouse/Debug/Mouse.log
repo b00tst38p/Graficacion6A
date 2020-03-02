@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\aaron\source\repos\graficacion6a\mouse\main.cpp(17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\aaron\source\repos\graficacion6a\mouse\main.cpp(28): warning C4244: '=': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aaron\source\repos\graficacion6a\mouse\main.cpp(29): warning C4244: '=': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aaron\source\repos\graficacion6a\mouse\main.cpp(75): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\aaron\source\repos\graficacion6a\mouse\main.cpp(86): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\aaron\source\repos\graficacion6a\mouse\main.cpp(101): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\aaron\source\repos\graficacion6a\mouse\main.cpp(117): warning C4305: '+=': truncation from 'double' to 'float'
+  Mouse.vcxproj -> C:\Users\Aaron\source\repos\Graficacion6A\Debug\Mouse.exe

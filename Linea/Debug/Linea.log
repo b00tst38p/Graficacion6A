@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\aaron\source\repos\graficacion6a\linea\main.cpp(16): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\aaron\source\repos\graficacion6a\linea\main.cpp(52): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\aaron\source\repos\graficacion6a\linea\main.cpp(63): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\aaron\source\repos\graficacion6a\linea\main.cpp(77): warning C4305: '+=': truncation from 'double' to 'float'
+  Linea.vcxproj -> C:\Users\Aaron\source\repos\Graficacion6A\Debug\Linea.exe
