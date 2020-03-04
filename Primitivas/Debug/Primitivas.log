@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\aaron\source\repos\graficacion6a\primitivas\main.cpp(22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\aaron\source\repos\graficacion6a\primitivas\main.cpp(33): warning C4244: '=': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aaron\source\repos\graficacion6a\primitivas\main.cpp(34): warning C4244: '=': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aaron\source\repos\graficacion6a\primitivas\main.cpp(73): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aaron\source\repos\graficacion6a\primitivas\main.cpp(74): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aaron\source\repos\graficacion6a\primitivas\main.cpp(75): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aaron\source\repos\graficacion6a\primitivas\main.cpp(84): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aaron\source\repos\graficacion6a\primitivas\main.cpp(85): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Primitivas.vcxproj -> C:\Users\Aaron\source\repos\Graficacion6A\Debug\Primitivas.exe
